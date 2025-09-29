@@ -1,5 +1,4 @@
-import math
-class OperacionesAvanzadas:
+class Operaciones:
     def __init__(self):
         self.num1 = 0
         self.num2 = 0
@@ -10,8 +9,12 @@ class OperacionesAvanzadas:
 
     def elevarPotencia(self):
         return self.num1 ** self.num2
-    
+
+    # Agrega las operaciones faltantes
+    import math
+
     def raizCuadrada(self):
         return math.sqrt(self.num1)
 
-    # Espacio para que los colaboradores agreguen la raíz cuadrada
+    def multiplicar(self):
+        return self.num1 * self.num2

@@ -5,3 +5,4 @@ Instrucciones para colaboradores:
 - Asegúrate de que el método no modifique los números existentes y se integre con leerNumeros().
 - Actualiza main.py si es necesario para probar la nueva función.
 - Crea una rama nueva para tus cambios y emite un Pull Request.
+
